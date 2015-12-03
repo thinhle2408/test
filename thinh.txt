@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 thinh
 le duc thinh
+=======
+>>>>>>> parent of 2fe90c1... add thinh
