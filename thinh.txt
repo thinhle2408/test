@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 le duc thinh
+=======
+thinh
+>>>>>>> parent of 7b39ade... add le duc thinh
